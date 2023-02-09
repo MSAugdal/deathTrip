@@ -1,6 +1,5 @@
 # Modified from:
 #     https://github.com/github/gitignore/blob/master/Unity.gitignore
-[Aa]ssets/
 [Pp]ackages/
 [Pp]rojectSettings/
 [Ll]ibrary/
